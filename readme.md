@@ -1,3 +1,3 @@
-# IS 601 - History of Internet Website
+# IS 601 - [History of Internet Website](https://github.com/lchave/IS601_HistoryOfInternet)
 
-https://github.com/lchave/IS601_HistoryOfInternet
+
